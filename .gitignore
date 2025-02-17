@@ -1,0 +1,8 @@
+# project
+source-review/
+
+# vscode
+.vscode/
+
+# ipynb
+# */.ipynb_checkpoints/
