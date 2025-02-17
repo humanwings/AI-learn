@@ -5,4 +5,4 @@ source-review/
 .vscode/
 
 # ipynb
-# */.ipynb_checkpoints/
+*/.ipynb_checkpoints/
